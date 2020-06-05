@@ -11,4 +11,5 @@ Submission by Joe Klein
 * Removed multiple classes from HTML and reused classes where appropriate.
 * Removed multiple class declarations from CSS sheet
 * Reorganized CSS sheet to follow flow of HTML sheet.
+* Added alt atributes to images where appropriate, smaller images used as icons have no alt text.
 
